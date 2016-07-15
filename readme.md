@@ -2,3 +2,7 @@
 
 useful calculator built with JavaScript. 
 ![Alt text](http://i.imgur.com/A5ftQ8p.png "PREVIEW")
+
+
+
+[View live working source code here at codepen.io](http://codepen.io/hunterhawes13/full/rLpzVm/ "Calculator HTML CSS JavaScript PURE")
