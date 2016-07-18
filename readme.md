@@ -6,3 +6,7 @@ useful calculator built with JavaScript.
 
 
 [View live working source code here at codepen.io](http://codepen.io/hunterhawes13/full/rLpzVm/ "Calculator HTML CSS JavaScript PURE")
+
+##Warning
+
+This should not be used in production. It is for demonstration purposes only.
